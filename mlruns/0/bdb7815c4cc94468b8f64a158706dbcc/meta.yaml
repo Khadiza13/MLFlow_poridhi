@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bdb7815c4cc94468b8f64a158706dbcc/artifacts
+end_time: 1739895751553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdb7815c4cc94468b8f64a158706dbcc
+run_name: upset-mare-772
+run_uuid: bdb7815c4cc94468b8f64a158706dbcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895467647
+status: 3
+tags: []
+user_id: SAYMA

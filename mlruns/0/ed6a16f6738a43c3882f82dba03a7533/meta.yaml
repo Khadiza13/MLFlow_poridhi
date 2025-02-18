@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ed6a16f6738a43c3882f82dba03a7533/artifacts
+deleted_time: 1739895838031
+end_time: 1739895372505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ed6a16f6738a43c3882f82dba03a7533
+run_name: handsome-auk-978
+run_uuid: ed6a16f6738a43c3882f82dba03a7533
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739895364678
+status: 4
+tags: []
+user_id: SAYMA

@@ -81,7 +81,18 @@ Once MLflow is running, you can access the MLflow UI at:
 
 🔗 [http://localhost:5000](http://localhost:5000)
 
-The Ui look like this:
-![MLflow ui](./images/mlflow_ui.png)
-
 Now that MLflow is installed, we can explore its features for tracking, managing, and deploying models.
+
+## 🚀 Running a Simple MLflow Example
+
+The example Python script (main.py) tracks and logs a machine learning model using MLflow. Simply run:
+
+```bash
+python main.py
+```
+
+Now the Mlflow dashboard should be look like this:
+
+![MLflow Ui](./images/mlflow_ui.png)
+
+Thus we've set up MLflow to track experiments, log model parameters and metrics, and save trained models, all while using the MLflow UI to manage the ML lifecycle.
